@@ -17,7 +17,6 @@ The goal is to combine **machine learning accuracy** with **business insights** 
 Designed to showcase:
 -  Technical skills in Python, ML, and visualization.  
 -  Ability to translate data into **business solutions**.  
--  Clean, organized, and recruiter-friendly portfolio.
 
 ---
 
@@ -79,7 +78,7 @@ This project demonstrates my ability to:
 -  Provide **data-driven recommendations** that connect directly to business outcomes.  
 
 It is part of my portfolio as I prepare to enter the job market as a **Junior Data Analyst / Data Scientist**.  
-Later, I will share this project on LinkedIn to generate professional visibility and showcase my skills.
+
 
 ---
 
