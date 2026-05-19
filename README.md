@@ -13,11 +13,11 @@
 ## Project Overview
 This project predicts **customer churn** in the telecommunications industry.  
 The goal is to combine **machine learning accuracy** with **business insights** that help reduce churn and improve retention.
-
 Designed to showcase:
 -  Technical skills in Python, ML, and visualization.  
 -  Ability to translate data into **business solutions**.  
 
+> **Personal note:** This dataset was intentionally chosen because of my background in the telecommunications industry. I worked in customer service at Movistar, where I directly observed how support interactions and contract types influence customer satisfaction — insights that shaped my analytical approach in this project.
 ---
 
 ##  Dataset
@@ -79,8 +79,13 @@ This project demonstrates my ability to:
 
 It is part of my portfolio as I prepare to enter the job market as a **Junior Data Analyst / Data Scientist**.  
 
-
 ---
+## Limitations & Next Steps
+
+- The dataset contains 1,200 records, which limits the model's generalizability to real-world scenarios.
+- Temporal data (signup date) was not used in the final model — incorporating churn patterns over time could improve predictions.
+- Feedback sentiment was classified using a basic keyword approach; a proper NLP model could yield more accurate results.
+- Next step: deploy the model as a simple web API using Flask or FastAPI.
 
 ## 📬 Contact
 - 🐙 GitHub: [VictoriaGarcia2025](https://github.com/VictoriaGarcia2025)  
